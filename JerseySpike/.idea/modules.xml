@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestfullSpike.iml" filepath="$PROJECT_DIR$/RestfullSpike.iml" />
-      <module fileurl="file://$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/localhost.iml" filepath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/localhost.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jerseySpike.iml" filepath="$PROJECT_DIR$/jerseySpike.iml" />
+      <module fileurl="file://D:/jerseySpike2/jerseySpike2.iml" filepath="D:/jerseySpike2/jerseySpike2.iml" />
     </modules>
   </component>
 </project>

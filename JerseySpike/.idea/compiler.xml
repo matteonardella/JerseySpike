@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="RestfullSpike" />
+        <module name="jerseySpike" />
+        <module name="jerseySpike2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="RestfullSpike" target="1.5" />
+      <module name="jerseySpike" target="1.5" />
+      <module name="jerseySpike2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
