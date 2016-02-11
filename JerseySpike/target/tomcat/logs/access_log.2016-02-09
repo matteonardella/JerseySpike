@@ -26,3 +26,12 @@
 0:0:0:0:0:0:0:1 - - [09/Feb/2016:16:49:43 +0100] "POST /newjersey/rest/hello/login HTTP/1.1" 200 16 http-bio-8080-exec-1 1727
 0:0:0:0:0:0:0:1 - - [09/Feb/2016:17:05:11 +0100] "POST /newjersey/rest/hello/login HTTP/1.1" 200 16 http-bio-8080-exec-1 1439
 0:0:0:0:0:0:0:1 - - [09/Feb/2016:17:17:34 +0100] "POST /newjersey/rest/hello/login HTTP/1.1" 200 16 http-bio-8080-exec-1 1562
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:17:24:28 +0100] "POST /newjersey/rest/hello/login HTTP/1.1" 200 16 http-bio-8080-exec-1 1270
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:17:26:59 +0100] "GET /newjersey/rest/hello/login HTTP/1.1" 405 1013 http-bio-8080-exec-3 20
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:17:27:21 +0100] "GET /newjersey/rest/hello/logi HTTP/1.1" 200 16 http-bio-8080-exec-4 14
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:02:20 +0100] "GET /newjersey/rest/hello/ciao HTTP/1.1" 500 4088 http-bio-8080-exec-1 1000
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:03:03 +0100] "POST /newjersey/rest/hello/login HTTP/1.1" 200 16 http-bio-8080-exec-2 570
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:05:21 +0100] "GET /newjersey/rest/hello/ciao HTTP/1.1" 500 4088 http-bio-8080-exec-4 24
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:07:13 +0100] "GET /newjersey/rest/hello/ciao HTTP/1.1" 500 4088 http-bio-8080-exec-1 897
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:07:23 +0100] "GET /newjersey/rest/hello/ciao HTTP/1.1" 500 4088 http-bio-8080-exec-2 12
+0:0:0:0:0:0:0:1 - - [09/Feb/2016:18:10:53 +0100] "GET /newjersey/rest/hello/ciao HTTP/1.1" 200 23 http-bio-8080-exec-1 1208
